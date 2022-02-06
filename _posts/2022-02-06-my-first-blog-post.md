@@ -1,3 +1,7 @@
+---
+title: "XlabzDEX"
+date: 2022-02-05
+---
 With open sourced code found here on github. I plan on Creating a pancakeSwap like DEX. With a DEX under my subdomain and branded accordingly to my liking and easier for users with no crypto knowledghe can manage, I want to create a token
 
 We will call that token XTOKEN for now. I want to add it into our liquidity pool. Our token can only be found on our liquidity pool for now. When users buy our token they can use those tokens on eCommercer sites we setup straight from their crypto wallets.
