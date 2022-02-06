@@ -1,13 +1,12 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Xlabz Tech DEX 
+author: William Bermudez
+email: wbermudez@xlabz.tech
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+Using open sourced code found here on github I plan on created a DEX, to add a token I forked from safemoon into a liquidity pool, to allow users easy acces to gain their crypto to spend on my eCommerce stores.
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+
+github_username:  github.com/william7829
 
 show_excerpts: true # set to false to remove excerpts on the homepage
